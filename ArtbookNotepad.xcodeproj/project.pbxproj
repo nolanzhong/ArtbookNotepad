@@ -14,6 +14,7 @@
 		7EC04B65296FD34D00F25EC2 /* ArtbookNotepad.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7EC04B63296FD34D00F25EC2 /* ArtbookNotepad.xcdatamodeld */; };
 		7EC04B67296FD34F00F25EC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EC04B66296FD34F00F25EC2 /* Assets.xcassets */; };
 		7EC04B6A296FD34F00F25EC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EC04B68296FD34F00F25EC2 /* LaunchScreen.storyboard */; };
+		7EC04B72296FD56F00F25EC2 /* detailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC04B71296FD56F00F25EC2 /* detailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7EC04B66296FD34F00F25EC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EC04B69296FD34F00F25EC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EC04B6B296FD34F00F25EC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EC04B71296FD56F00F25EC2 /* detailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				7EC04B68296FD34F00F25EC2 /* LaunchScreen.storyboard */,
 				7EC04B6B296FD34F00F25EC2 /* Info.plist */,
 				7EC04B63296FD34D00F25EC2 /* ArtbookNotepad.xcdatamodeld */,
+				7EC04B71296FD56F00F25EC2 /* detailsVC.swift */,
 			);
 			path = ArtbookNotepad;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				7EC04B65296FD34D00F25EC2 /* ArtbookNotepad.xcdatamodeld in Sources */,
 				7EC04B5F296FD34D00F25EC2 /* ViewController.swift in Sources */,
+				7EC04B72296FD56F00F25EC2 /* detailsVC.swift in Sources */,
 				7EC04B5B296FD34D00F25EC2 /* AppDelegate.swift in Sources */,
 				7EC04B5D296FD34D00F25EC2 /* SceneDelegate.swift in Sources */,
 			);
